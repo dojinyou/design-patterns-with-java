@@ -8,6 +8,6 @@ public class Customer implements Subscriber {
     }
     @Override
     public void update(Object context) {
-        System.out.println("to "+this.name+" : "+context);
+        System.out.println("to "+this.name+"\n: "+context);
     }
 }
