@@ -1,7 +1,5 @@
 package com.designpatterns.observer.observable;
 
-import com.designpatterns.observer.basicexample.Subscriber;
-
 import java.util.Observable;
 import java.util.Observer;
 

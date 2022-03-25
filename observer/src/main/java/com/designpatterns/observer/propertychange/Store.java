@@ -1,7 +1,5 @@
 package com.designpatterns.observer.propertychange;
 
-import com.designpatterns.observer.basicexample.Subscriber;
-
 import java.beans.PropertyChangeListener;
 import java.beans.PropertyChangeSupport;
 

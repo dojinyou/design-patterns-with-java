@@ -2,7 +2,6 @@ package com.designpatterns.observer.propertychange;
 
 import java.beans.PropertyChangeEvent;
 import java.beans.PropertyChangeListener;
-import java.util.Observable;
 
 public class Customer implements PropertyChangeListener {
     private String name;
